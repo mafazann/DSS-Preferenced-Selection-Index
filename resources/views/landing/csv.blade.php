@@ -41,7 +41,7 @@
                                         
                                          <a style="text-decoration: none; color: #fb6340;" href="/how-it-works">Cara kerja</a> ini memberikan perincian algoritma langkah demi langkah, sehingga Anda dapat lebih memahami cara kerjanya. Kami percaya bahwa transparansi adalah kuncinya, dan kami ingin memastikan bahwa Anda memiliki semua informasi yang Anda perlukan untuk membuat keputusan yang tepat.
                                         
-                                        Thank you for choosing our platform, and we hope you find our service helpful and user-friendly.</p>
+                                        Terima kasih telah memilih platform kami, dan kami berharap layanan kami bermanfaat dan ramah pengguna.</p>
                                     </div>
                                 </div>
                                 <form method="POST" action="{{ route('cases.csvStore') }}" enctype="multipart/form-data">
